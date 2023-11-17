@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty FreedomUI" />
+			<Item Name="Columns.UsrArea.Caption" Value="Area, sqft" />
+			<Item Name="Columns.UsrCity.Caption" Value="City" />
+			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrCommissionUSD.Caption" Value="Commission, USD" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
+			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrOfferType.Caption" Value="Offer type" />
+			<Item Name="Columns.UsrPriceUSD.Caption" Value="Price, USD" />
+			<Item Name="Columns.UsrType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>
