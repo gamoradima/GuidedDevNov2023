@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3e57dcdf-df59-4bda-ad25-ab956c566f55",
+    "Name": "UsrRealtyClMigration_Detail",
+    "ModifiedOnUtc": "\/Date(1700583350000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Classic Migration detail",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "a7ee7948-4b3e-42ca-b550-e4ae439bc852",
+      "A2": "UsrRealtyFreedomUIEvents",
+      "A5": "5b4de164-043d-4643-a7d4-12c9bc2aabed",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "7784a173-5765-f3c9-d27e-f23cc330db12",
+          "A2": "ValueIsTooBig",
+          "A3": "a7ee7948-4b3e-42ca-b550-e4ae439bc852",
+          "A4": "a7ee7948-4b3e-42ca-b550-e4ae439bc852",
+          "A5": "5b4de164-043d-4643-a7d4-12c9bc2aabed"
+        }
+      ],
+      "B3": [],
+      "B6": "d763aa19-3f5d-4b16-9ea6-a965bac961da",
+      "B8": "8.1.0.6716",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

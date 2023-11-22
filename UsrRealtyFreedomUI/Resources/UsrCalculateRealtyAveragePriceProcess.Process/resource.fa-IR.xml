@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Average realty price output page" />
+			<Item Name="Caption" Value="Calculate realty average price process" />
+		</Items>
+	</Group>
+</Resources>

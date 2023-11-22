@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Контрагент" />
+			<Item Name="Columns.AccountCategory.Caption" Value="Категория" />
+			<Item Name="Columns.AccountLogo.Caption" Value="Логотип контрагента" />
+			<Item Name="Columns.AdditionalPhone.Caption" Value="Дополнительный телефон" />
+			<Item Name="Columns.Address.Caption" Value="Адрес" />
+			<Item Name="Columns.AddressType.Caption" Value="Тип адреса" />
+			<Item Name="Columns.AlternativeName.Caption" Value="Альтернативные названия" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="Годовой оборот" />
+			<Item Name="Columns.AUM.Caption" Value="AUM" />
+			<Item Name="Columns.City.Caption" Value="Город" />
+			<Item Name="Columns.Code.Caption" Value="Код" />
+			<Item Name="Columns.Completeness.Caption" Value="Полнота наполнения данными" />
+			<Item Name="Columns.Country.Caption" Value="Страна" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Создал" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата создания" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="Количество сотрудников" />
+			<Item Name="Columns.Fax.Caption" Value="Факс" />
+			<Item Name="Columns.GPSE.Caption" Value="GPS E" />
+			<Item Name="Columns.GPSN.Caption" Value="GPS N" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.Industry.Caption" Value="Отрасль" />
+			<Item Name="Columns.Logo.Caption" Value="Логотип компании" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Изменил" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Дата изменения" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.Notes.Caption" Value="Заметки" />
+			<Item Name="Columns.Owner.Caption" Value="Ответственный" />
+			<Item Name="Columns.Ownership.Caption" Value="Форма собственности" />
+			<Item Name="Columns.Parent.Caption" Value="Родительский контрагент" />
+			<Item Name="Columns.Phone.Caption" Value="Основной телефон" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="Основной контакт" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Активные процессы" />
+			<Item Name="Columns.Region.Caption" Value="Область/штат" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+			<Item Name="Columns.Web.Caption" Value="Сайт" />
+			<Item Name="Columns.Zip.Caption" Value="Индекс" />
+		</Items>
+	</Group>
+</Resources>

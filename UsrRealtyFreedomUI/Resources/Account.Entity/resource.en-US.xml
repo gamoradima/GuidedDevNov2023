@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Account" />
+			<Item Name="Columns.AccountCategory.Caption" Value="Category" />
+			<Item Name="Columns.AccountLogo.Caption" Value="Account logo" />
+			<Item Name="Columns.AdditionalPhone.Caption" Value="Alternate phone" />
+			<Item Name="Columns.Address.Caption" Value="Address" />
+			<Item Name="Columns.AddressType.Caption" Value="Address type" />
+			<Item Name="Columns.AlternativeName.Caption" Value="Also known as" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="Annual revenue" />
+			<Item Name="Columns.AUM.Caption" Value="AUM" />
+			<Item Name="Columns.City.Caption" Value="City" />
+			<Item Name="Columns.Code.Caption" Value="Code" />
+			<Item Name="Columns.Completeness.Caption" Value="Data entry compliance" />
+			<Item Name="Columns.Country.Caption" Value="Country" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Created by" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Created on" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="No. of employees" />
+			<Item Name="Columns.Fax.Caption" Value="Fax" />
+			<Item Name="Columns.GPSE.Caption" Value="GPS E" />
+			<Item Name="Columns.GPSN.Caption" Value="GPS N" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.Industry.Caption" Value="Industry" />
+			<Item Name="Columns.Logo.Caption" Value="Logo" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Modified by" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Modified on" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Owner.Caption" Value="Owner" />
+			<Item Name="Columns.Ownership.Caption" Value="Business entity" />
+			<Item Name="Columns.Parent.Caption" Value="Parent account" />
+			<Item Name="Columns.Phone.Caption" Value="Primary phone" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="Primary contact" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Active processes" />
+			<Item Name="Columns.Region.Caption" Value="State/province" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+			<Item Name="Columns.UsrWebId.Caption" Value="Web Id" />
+			<Item Name="Columns.Web.Caption" Value="Web" />
+			<Item Name="Columns.Zip.Caption" Value="ZIP/postal code" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

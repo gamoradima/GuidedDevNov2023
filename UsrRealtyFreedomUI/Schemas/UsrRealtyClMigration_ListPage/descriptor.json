@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8813d439-fc00-4070-9d4a-99cc6402ca7f",
+    "Name": "UsrRealtyClMigration_ListPage",
+    "ModifiedOnUtc": "\/Date(1700583592000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Classic Migration list page"
+  }
+}

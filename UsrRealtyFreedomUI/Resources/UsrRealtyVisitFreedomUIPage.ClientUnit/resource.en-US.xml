@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty visit (FreedomUI) modal page" />
+			<Item Name="LocalizableStrings.addRecord_2i5diby_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_3jdib0b_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>
