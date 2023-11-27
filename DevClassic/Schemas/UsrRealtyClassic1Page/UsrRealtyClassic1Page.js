@@ -1,4 +1,4 @@
-define("UsrRealtyClassic1Page", [], function() {
+define("UsrRealtyClassic1Page", ["ServiceHelper"], function(ServiceHelper) {
 	return {
 		entitySchemaName: "UsrRealtyClassic",
 		attributes: {},
@@ -18,6 +18,30 @@ define("UsrRealtyClassic1Page", [], function() {
 			onMyButtonClick: function() {
 				//
 				this.console.log("My button works!");
+			},
+			onRunWebServiceButtonClick: function() {
+				var typeObject = this.get("UsrType");
+				if (!typeObject) {
+					return;
+				}
+				var typeId = typeObject.value;
+				var offerTypeObject = this.get("UsrOfferType");
+				if (!offerTypeObject) {
+					return;
+				}
+				var offerTypeId = offerTypeObject.value;
+				var params = {
+					realtyTypeId: typeId,
+					realtyOfferTypeId: offerTypeId,
+					entityName: "UsrRealtyClassic"
+				};				
+				this.console.log("1");
+				ServiceHelper.callService("RealtyService", "GetTotalAmountByTypeId", this.getWebServiceResult, params, this);
+				this.console.log("2");
+			},
+			getWebServiceResult: function(response, success) {
+				this.console.log("3");
+				this.Terrasoft.showInformation("Total amount by typeId: " + response.GetTotalAmountByTypeIdResult);
 			}
 		},
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
@@ -103,6 +127,25 @@ define("UsrRealtyClassic1Page", [], function() {
                     "click": {bindTo: "onMyButtonClick"},
                     /* The display style of the button. */
                     "style": Terrasoft.controls.ButtonEnums.style.BLUE
+                }
+            },
+            {
+                "operation": "insert",
+                "parentName": "ProfileContainer",
+                "propertyName": "items",
+                "name": "RunWebServiceButton",
+                "values": {
+					"layout": {
+						"colSpan": 12,
+						"rowSpan": 1,
+						"column": 11,
+						"row": 3,
+						"layoutName": "ProfileContainer"
+					},
+                    "itemType": Terrasoft.ViewItemType.BUTTON,
+                    "caption": {bindTo: "Resources.Strings.RunWebServiceButtonCaption"},
+                    "click": {bindTo: "onRunWebServiceButtonClick"},
+                    "style": Terrasoft.controls.ButtonEnums.style.RED
                 }
             },
 			{

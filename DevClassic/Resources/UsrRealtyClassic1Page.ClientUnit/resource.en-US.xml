@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Edit page: &quot;Realty (ClassicUI)&quot;" />
 			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="PUSH!" />
+			<Item Name="LocalizableStrings.RunWebServiceButtonCaption.Value" Value="Run service" />
 		</Items>
 	</Group>
 </Resources>

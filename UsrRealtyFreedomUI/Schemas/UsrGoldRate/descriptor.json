@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "68d07a47-0897-4a65-891e-28bc11b6ef54",
+    "Name": "UsrGoldRate",
+    "ModifiedOnUtc": "\/Date(1701102780000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Gold Rate",
+    "DependsOn": []
+  }
+}

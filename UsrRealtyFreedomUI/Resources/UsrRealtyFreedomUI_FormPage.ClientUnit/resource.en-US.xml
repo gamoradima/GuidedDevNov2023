@@ -20,6 +20,7 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_ewxqzsc_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_lif9xky_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.MenuItem_lmcd371_caption.Value" Value="Calculate average price" />
+			<Item Name="LocalizableStrings.MenuItem_vb18c27_caption.Value" Value="Calculate Total Price" />
 			<Item Name="LocalizableStrings.NumberInput_r7dmvmq_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50 USD." />
 		</Items>
